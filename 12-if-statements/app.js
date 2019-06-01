@@ -79,7 +79,7 @@ const age = 6;
 
 if(age >0 && age <12){
     console.log(`${name} is a child`);
-} else if(age >=13 && age <=19){
+} else if(age >=12 && age <=19){
     console.log(`${name} is a teeneger`);
 } else{
     console.log(`${naem} is a adult`);
